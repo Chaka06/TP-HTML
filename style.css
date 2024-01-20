@@ -1,0 +1,163 @@
+*{
+    font-family: sans-serif;
+    
+}
+
+nav {
+    background-color: beige;
+    margin-top: 5%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border-radius: 25px;
+    border-style: double;
+    border-color: #666;   
+}
+
+nav a{
+    text-align: center;
+    display: flex;
+    margin: 5%;
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(56, 49, 49);
+    text-decoration: aqua;    
+}
+
+nav .logo {
+    margin: 0;
+    padding: 26px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    
+}
+
+body{
+    background-color: rgb(252, 242, 230);
+}
+
+body .part1 {
+    margin-left: 210px; 
+    
+}
+
+body h1{
+    
+    
+}
+
+.part1 h1{
+    color: rgb(82, 66, 45);
+    font-style: italic;
+    font-size: 50px;
+}
+
+.part1 h3{
+    font-style: italic;
+    font-size: 16px;
+    font-weight: 10;
+
+    
+}
+
+body span{
+    color: rgb(250, 7, 7);
+    
+}
+
+
+
+div a{
+    text-decoration: none;
+    font-size: large;
+    font-style: italic;
+    color: rgb(58, 46, 31);    
+}
+
+div img{
+    border-radius: 50%;
+}
+
+
+
+div .art{
+    width: 200px;
+    height: 200px;
+    padding-left: 5%;
+}
+
+div h1{
+    text-decoration: none;
+    font-size: large;
+    font-style: italic;
+    color: rgb(58, 46, 31);
+
+}
+
+body .bouton{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-style: oblique;
+    background-color: rgb(245, 103, 8);
+    color: rgb(6, 55, 248);
+    font-family: serif;
+    border-color: rgba(236, 107, 15, 0.96);
+    border-style: solid;
+    border-radius: 25%;
+    margin-left: 70px;
+}
+
+.footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+.menufooter {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.menufooter h3 {
+    color: #333;
+}
+
+.menufooter a {
+    text-decoration: none;
+    color: #666;
+    display: block;
+    margin-bottom: 5px;
+}
+
+footer{
+    margin: 17px;
+}
+
+form {
+    display: inline-block;
+}
+
+form h3 {
+    color: #333;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+form input {
+    padding: 8px;
+    margin-bottom: 10px;
+    width: 200px;
+    background-color: #e7f3e8;
+    color: rgb(84, 46, 46);
+    padding: 8px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+form input:hover {
+    background-color: #45a049;
+}
+
+
+
